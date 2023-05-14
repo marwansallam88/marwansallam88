@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @marwansallam88<br>👀 I’m interested in technology, robotics and programmning<br>🌱 I’m currently learning mechatronics engineerning<br>💞️ I’m looking to collaborate on anything relating embedded or robotics porjects<br>📫 How to reach me: email: marwansallam88@gmail.com
+👋 Hi, I’m @marwansallam88<br>👀 I’m interested in technology, robotics and programming<br>🌱 I’m currently learning mechatronics engineering<br>💞️ I’m looking to collaborate on anything relating embedded or robotics projects<br>📫 How to reach me: email: marwansallam88@gmail.com
 
 
 # 💻 Tech Stack:
